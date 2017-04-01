@@ -46,7 +46,11 @@
     letter-spacing: 7px;
 }
 
-.text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
+.text_h2 {
+	font-weight: 100;
+	margin-bottom: 4%;
+	 line-height: 4.5rem;
+	 }
 
 .span_h2 {font-weight: 300;color: #2196F3;}
 
@@ -262,4 +266,12 @@ nav a.button-collapse {
 
 footer.page-footer {
     margin-top: 0px !important;
+}
+
+
+ h5 {
+    display: block;     
+    font-family: 'Roboto', sans-serif;
+    font-weight: light;
+	color: rgba(255, 255, 255, 0.91);
 }
